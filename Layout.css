@@ -15,7 +15,7 @@ body {
     h1,
     p {
         font-size: 4rem;
-        color: rgb(0, 203, 115);
+        color: rgb(255 200 180);
         padding: 4rem;
         ;
     }
@@ -29,6 +29,9 @@ body {
         max-height: 60vh;
         object-fit: cover;
     }
+}
+.overlay{
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 html,

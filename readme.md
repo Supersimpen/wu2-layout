@@ -1,0 +1,1 @@
+Det var kontrast fel på mina headers så jag fixade det med hjälp av jens. Jag la en svart backgrund bakom den på overlayen med rgba value av 0, 0, 0, 0.5 Detta gjorde så att det inte var något fel med kontrasten längre även om WAVE säger att det är det för den jämför texten med sidbakgrunden och inte overlayen och heron.
